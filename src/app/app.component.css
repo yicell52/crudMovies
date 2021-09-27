@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container-fluid {
+  background-color: blue;
+  height: 60px;
+}
+
+.navbar-light .navbar-brand {
+  color: white;
+}
+
+.navbar-light .navbar-nav .nav-link.active {
+  color: white;
+}
+.btn-outline-success {
+  color: white;
+}
